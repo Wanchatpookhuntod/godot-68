@@ -1,0 +1,8 @@
+res://main.tscn
+res://player.tscn
+res://player.gd
+res://bullet.tscn
+res://bullet.gd
+res://autoload_script.gd
+res://bullet_player.tscn
+res://bullet_player.gd

@@ -1,0 +1,20 @@
+[gd_scene format=3 uid="uid://bcyh731vb5mic"]
+
+[ext_resource type="Texture2D" uid="uid://cvspkmhjxp1xg" path="res://Sprites_Space_Shooter/Bullet.png" id="1_v7oki"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_1biof"]
+radius = 2.0
+height = 18.0
+
+[node name="bullet" type="Node2D" unique_id=1905702080]
+
+[node name="Bullet" type="Area2D" parent="." unique_id=1978847099 groups=["bullet"]]
+scale = Vector2(0.1, 0.1)
+
+[node name="Sprite2D" type="Sprite2D" parent="Bullet" unique_id=1384002029]
+scale = Vector2(0.9999998, 0.9999998)
+texture = ExtResource("1_v7oki")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Bullet" unique_id=1018753590]
+scale = Vector2(9.999997, 9.999997)
+shape = SubResource("CapsuleShape2D_1biof")

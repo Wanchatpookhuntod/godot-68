@@ -1,0 +1,14 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1793086798
+icon.svg::CompressedTexture2D::7006280137103680530::1793085948::1793085957::1::::<><><>0<>0<>89e2eadc098a157c902dffb18b735272<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+main.tscn::PackedScene::2520768986838193636::1793086477::0::1::::<><><>0<>0<><>::uid://cpg7m20m8y04f::::res://player.tscn
+player.tscn::PackedScene::5840026119117293779::1793086205::0::1::::<><><>0<>0<><>::uid://c625n7huefo23::::res://icon.svg<>uid://c1vil6fddavwm::::res://player.gd
+player.gd::GDScript::6641610250573601820::1793086152::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://Sprites_Space_Shooter/::1793086798
+bg1.png::CompressedTexture2D::7280661903181447535::1793086798::1793086798::1::::<><><>0<>0<>8b4cb596f90d81d3701b0284d44a5c9f<>res://.godot/imported/bg1.png-bd34b111b80bdea568aaa7c29c174012.ctex::
+bg2.png::CompressedTexture2D::2748298963584912130::1793086798::1793086798::1::::<><><>0<>0<>b87f45ef1fffb5e54dc8f682452ee964<>res://.godot/imported/bg2.png-4eb4b1fdd989bf83ed81bf93e2ba65e3.ctex::
+Bullet.png::CompressedTexture2D::6284895137722611652::1793086798::1793086798::1::::<><><>0<>0<>23fcc45e472ef53de15b3915685a8e28<>res://.godot/imported/Bullet.png-1302217ce135d100ce2fa03c8d6a9543.ctex::
+Enemy.png::CompressedTexture2D::4638759955117972411::1793086798::1793086798::1::::<><><>0<>0<>e801c515d90298bc1c273151a458d460<>res://.godot/imported/Enemy.png-29548e1b1e34ad93e16ec2dcdbdf629b.ctex::
+Ship.png::CompressedTexture2D::4398988877520753091::1793086798::1793086798::1::::<><><>0<>0<>b903b045d5ee60b0079086fd6ccd5542<>res://.godot/imported/Ship.png-ff32a2fe1e28451d7254c5fbb5f2d0e5.ctex::
+you_lost.png::CompressedTexture2D::9080651329627722781::1793086798::1793086798::1::::<><><>0<>0<>338f50fff49ebf9036e5541ac5ae4c5c<>res://.godot/imported/you_lost.png-e5cafe84290ddf378a0944ebf7eb9e89.ctex::
+you_win.png::CompressedTexture2D::7248529597733489577::1793086798::1793086798::1::::<><><>0<>0<>60638d341e11cc290560d98a6c190acf<>res://.godot/imported/you_win.png-0dd558173f9191cb8af752c161388090.ctex::
